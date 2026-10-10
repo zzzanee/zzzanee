@@ -1,13 +1,13 @@
 ## Hi I'm Zane! 👋
 
-I'm a senior at The University of Texas at Austin interested in bioinformatics, 
+I'm a student at The University of Texas at Austin interested in bioinformatics, 
 computational biology, and genomics. I'm currently developing projects involving 
 biological data analysis, machine learning, and reproducible workflows.
 
 ## Currently working on
 
-- Developing `splice-finder`, a command-line project for building splice-site
-  datasets and predicting donor and acceptor sites with machine learning
+- Developing `fasta-pipeline`, my first standalone project involving bash and
+  later Nextflow
 - Learning Bash, Nextflow, and containerization for reproducible bioinformatics
   workflows
 
