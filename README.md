@@ -1,7 +1,7 @@
-## Hi I'm Zane! 👋
+## Hi I'm Zane!
 
-I'm a student at The University of Texas at Austin interested in bioinformatics, 
-computational biology, and genomics. I'm currently developing projects involving 
+I'm a student at The University of Texas at Austin interested in computational
+biology and data science. I'm currently developing projects involving 
 biological data analysis, machine learning, and reproducible workflows.
 
 ## Currently working on
