@@ -1,19 +1,17 @@
-## Hi I'm Zane!
+## Hi I'm Zane
 
-I'm a student at The University of Texas at Austin interested in computational
-biology and data science. I'm currently developing projects involving 
-biological data analysis, machine learning, and reproducible workflows.
+I'm a student at The University of Texas at Austin interested in Machine learning
+and lower level programming. I'm currently developing projects involving biological
+data modeling and machine learning.
 
 ## Currently working on
 
-- Developing `fasta-pipeline`, my first standalone project involving bash and
-  later Nextflow
-- Learning Bash, Nextflow, and containerization for reproducible bioinformatics
-  workflows
+- Developing a soon to be `cnn-splice`, a CNN continuation of `splice-finder` using pytorch
+- Learning Rust, Linux, and pytorch
 
 ## Relevant coursework
-Data Structures and Algorithms • Machine Learning • Bayesian Analysis • 
-Data Science • Genetics
+Data Structures/Algorithms • Machine Learning • Bayesian Analysis • 
+Data Science
 
 
 <!--
