@@ -6,7 +6,7 @@ data modeling and machine learning.
 
 ## Currently working on
 
-- Developing a soon to be `cnn-splice`, a CNN continuation of `splice-finder` using pytorch
+- Developing `cnn-splice`, a CNN continuation of `splice-finder` using pytorch
 - Learning Rust, Linux, and pytorch
 
 ## Relevant coursework
